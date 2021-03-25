@@ -5,7 +5,7 @@ metadata:
   description: hello-world-react-app
   annotations:
     github.com/project-slug: sbg-hackathon-backstage/hello-world-react-app
-    jenkins.io/github-folder: folder-name/job-name
+    jenkins.io/github-folder: demo
 spec:
   type: website
   lifecycle: experimental
