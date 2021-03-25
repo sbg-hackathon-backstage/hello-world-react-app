@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-world-react-app
+  description: hello-world-react-app
+  annotations:
+    github.com/project-slug: sbg-hackathon-backstage/hello-world-react-app
+spec:
+  type: website
+  lifecycle: experimental
+  owner: sbg-hackathon-backstage
